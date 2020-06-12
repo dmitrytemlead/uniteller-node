@@ -1,7 +1,7 @@
 {
   "name": "uniteller-node",
-  "version": "1.0.0",
-  "description": "Uniteller payment - node module to integrate uniteller payment system to your node project. Current version support only pay by link mode. Other payment modes will be include to module later.",
+  "version": "1.0.2",
+  "description": "Модуль для интеграции node проекта с системой оплаты от Uniteller.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
