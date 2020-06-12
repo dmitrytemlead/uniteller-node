@@ -1,0 +1,41 @@
+{
+  "name": "uniteller-node",
+  "version": "1.0.0",
+  "description": "Uniteller payment - node module to integrate uniteller payment system to your node project. Current version support only pay by link mode. Other payment modes will be include to module later.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrytemlead/uniteller-node.git"
+  },
+  "keywords": [
+    "uniteller-node",
+    "nodejs",
+    "uniteller",
+    "payment",
+    "processing",
+    "api",
+    "visa",
+    "credit",
+    "card",
+    "apple",
+    "pay",
+    "google",
+    "pay",
+    "sumsung",
+    "pay"
+  ],
+  "author": "Dmitry Goncharenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitrytemlead/uniteller-node/issues"
+  },
+  "homepage": "https://github.com/dmitrytemlead/uniteller-node#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "js-sha256": "^0.9.0",
+    "querystring": "^0.2.0"
+  }
+}
